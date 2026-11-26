@@ -1,0 +1,5 @@
+# 저장소에는 항상 LF 줄바꿈으로 저장 (Windows ↔ Vercel(Linux) 간 불필요한 변경 방지)
+* text=auto eol=lf
+*.ico binary
+*.png binary
+*.svg text
